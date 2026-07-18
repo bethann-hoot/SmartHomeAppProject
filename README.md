@@ -2,15 +2,24 @@
 The problem isn't that smart home tech doesn't exist, it's that managing multiple devices means juggling multiple apps. Our solution was a cross-platform app where accessibility was part of the design from the beginning. We wanted anyone living in the home to be able to use it, whether that's a 70 year old grandma or her teenage grandkids.
 
 ## Features
-If you aren't logged in, you would sign in to your account or create a new account. Once you were logged in you would land on the room layout page first where you would design your room layout and drag and drop different smart home devices into the different locations within the room. You can also label the room and the different devices for easy identification. From the hamburger menu you can navigate to the room layout, devices, settings, and the FAQ/tutorial pages.
+If you aren't logged in, you would sign in to your account or create a new account. 
+<img width="273" height="553" alt="LoginWF" src="https://github.com/user-attachments/assets/6b0cf058-09aa-4a64-aab4-f5c608c02609" />
+
+<img width="264" height="555" alt="CreateLoginWF" src="https://github.com/user-attachments/assets/44153422-d73b-4a0a-af2c-f56376a1ae13" />
+
+Once you were logged in you would land on the room layout page first where you would design your room layout and drag and drop different smart home devices into the different locations within the room. You can also label the room and the different devices for easy identification. From the hamburger menu you can navigate to the room layout, devices, settings, and the FAQ/tutorial pages.
 
 From the Settings page you can set your personal preferences and update your user name and password. Settings include a light and dark mode, adjustable font sizing for accessibility, color themes, and a push notification toggle.
+<img width="266" height="553" alt="settingsWF" src="https://github.com/user-attachments/assets/91ebcd0d-69d2-4190-ba0a-e173d016c80c" />
+
 
 ## Tech Stack
 Flutter (Dart), Android Studio, local storage for account persistence
 
 ## My Contributions
 I handled the initial mockups for our application with sketches and explanations of buttons/fields on each page. I collaborated with Damir to choose the default color scheme of the application. I was responsible for wireframing and coding the settings page, as well as the login and account creation pages. The code for the settings page also handled the global settings for the entire app.
+<img width="388" height="830" alt="settings" src="https://github.com/user-attachments/assets/5ccfb870-21b1-42a4-a025-3d9a4cbb06f2" />
+
 
 ## Team
 Anthony (https://github.com/AnthonyGalstyan) handled the wireframing and coding of our room layout page. He ensured that both rooms and devices could be added, moved, resized, and deleted as needed. 
