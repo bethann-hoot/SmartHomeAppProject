@@ -13,9 +13,9 @@ Flutter (Dart), Android Studio, local storage for account persistence
 I handled the initial mockups for our application with sketches and explanations of buttons/fields on each page. I collaborated with Damir to choose the default color scheme of the application. I was responsible for wireframing and coding the settings page, as well as the login and account creation pages. The code for the settings page also handled the global settings for the entire app.
 
 ## Team
-Anthony handled the wireframing and coding of our room layout page. He ensured that both rooms and devices could be added, moved, resized, and deleted as needed. 
+Anthony (https://github.com/AnthonyGalstyan) handled the wireframing and coding of our room layout page. He ensured that both rooms and devices could be added, moved, resized, and deleted as needed. 
 
-Damir collaborated with me for the overall color scheme and look of the application. He also wireframed the devices page and the FAQ/Tutorial page. He coded the hamburger menu, devices page, and the FAQ/Tutorial page.
+Damir (https://github.com/damir-kozhamkulov) collaborated with me for the overall color scheme and look of the application. He also wireframed the devices page and the FAQ/Tutorial page. He coded the hamburger menu, devices page, and the FAQ/Tutorial page.
 
 ## Running Locally
 This project was developed and demonstrated using Android Studio and has not been deployed. To run it locally, you'll need Flutter and Android Studio installed.
