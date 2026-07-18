@@ -3,6 +3,7 @@ The problem isn't that smart home tech doesn't exist, it's that managing multipl
 
 ## Features
 If you aren't logged in, you would sign in to your account or create a new account. 
+
 <img width="273" height="553" alt="LoginWF" src="https://github.com/user-attachments/assets/6b0cf058-09aa-4a64-aab4-f5c608c02609" />
 
 <img width="264" height="555" alt="CreateLoginWF" src="https://github.com/user-attachments/assets/44153422-d73b-4a0a-af2c-f56376a1ae13" />
@@ -10,6 +11,7 @@ If you aren't logged in, you would sign in to your account or create a new accou
 Once you were logged in you would land on the room layout page first where you would design your room layout and drag and drop different smart home devices into the different locations within the room. You can also label the room and the different devices for easy identification. From the hamburger menu you can navigate to the room layout, devices, settings, and the FAQ/tutorial pages.
 
 From the Settings page you can set your personal preferences and update your user name and password. Settings include a light and dark mode, adjustable font sizing for accessibility, color themes, and a push notification toggle.
+
 <img width="266" height="553" alt="settingsWF" src="https://github.com/user-attachments/assets/91ebcd0d-69d2-4190-ba0a-e173d016c80c" />
 
 
